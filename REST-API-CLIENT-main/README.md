@@ -66,10 +66,11 @@ This Weather App is a practical implementation of REST API consumption, Spring B
 
 Sample output 1:
 
+![Image](https://github.com/user-attachments/assets/bceb6c1b-70eb-4ccc-8243-e88e2d474c94)
 
 
 Sample output 2:
 
 
-Sample output 3: In case of loose internet connection, when API fails to fetch data...
+![Image](https://github.com/user-attachments/assets/95079276-0829-47c6-b97e-ef71e6930899)
 
